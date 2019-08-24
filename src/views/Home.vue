@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+  	<<p>这一测试</p>
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
